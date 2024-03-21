@@ -1,2 +1,2 @@
 ## Sv443 Network
-A small network offering free to use and open source applications and services
+A network of developers free to use and open source applications and services

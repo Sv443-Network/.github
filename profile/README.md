@@ -1,2 +1,2 @@
 ## Sv443 Network
-A network of developers offering free to use and open source applications and services
+Network of independent developers offering FOSS applications and services
